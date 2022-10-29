@@ -1,0 +1,26 @@
+<!--
+  Created by IntelliJ IDEA.
+  User: crist
+  Date: 26/10/2022
+  Time: 17:50
+  To change this template use File | Settings | File Templates.
+-->
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <body>
+
+    /**
+    Se ha creado para que al momento de ingresar el usuario y contraseña de forma incorrecta lo redigira a una nueva pestaña indicando el error generado,
+    y así mismo teniendo la opción para logearse de nuevo.
+    */
+
+    Usuario y contraseña incorrecta.
+    <a href="bienvenida.html"> Regresar a Login </a>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+
+    </html>
+</jsp:root>
+
